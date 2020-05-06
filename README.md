@@ -1,7 +1,4 @@
 # Flutter Samples
-
-You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegoveloper)
-
  
  | [**Hello Flutter**](https://medium.com/@diegoveloper/hello-flutter-eb49e9b27916)      | [**Splash screen in Flutter**](https://medium.com/@diegoveloper/flutter-splash-screen-9f4e05542548)     | 
 |------------|-------------| 
